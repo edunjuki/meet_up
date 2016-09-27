@@ -55,7 +55,7 @@
                     @else
                         <li><a href="{{ url('/home') }}">Your Events</a></li>
                         <li><a href="{{ url('/update_events') }}">Update Events</a></li>
-                        <li><a href="{{ url('/other_events') }}">Other Events</a></li>
+                        <li><a href="{{ url('/events') }}">Other Events</a></li>
                         <li><a href="{{ url('/create_event') }}">Create Event</a></li>
                         <li class="dropdown">
 
